@@ -22,7 +22,7 @@ Build for publishing:
     
 Publish to private npm scope (@mattcarp) - bump version number first
 
-### Publishing to NPM via CirecleCi
+### Publishing to NPM via CircleCi
 See also: https://circleci.com/docs/1.0/npm-continuous-deployment/
 
 Run npm version to create a new version:
