@@ -2,6 +2,8 @@
 
 ##These notes are for common operations among all the media modules
 
+This repo serves as a container, for purposes of issue aggregation and the kanban board.
+
 A collection of private node modules for media analysis, transfer, bundling, playback...oh my!
 
 Uses jest for testing and Typescript for typing.
@@ -20,11 +22,15 @@ Build for publishing:
     
 Publish to private npm scope (@mattcarp) - bump version number first
 
-actually you're supposed to do something ling `npm version x.x.x` which does a commit and tags it - see circle ci docs 
+### Publishing to NPM via CirecleCi
+See also: https://circleci.com/docs/1.0/npm-continuous-deployment/
 
-    npm publish
+Run npm version to create a new version:
 
+    npm version x.x.x
+    
+This will update the package.json file and creates a tagged Git commit. Next, push the commit with tags:
 
-TODO Run all tests: run the above from the project root
-
-TODO file handler should be one single module, not multiple
+    git push --follow-tags
+    
+If tests passed, CircleCI will publish the package to npm automatically.

@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f098c946-52bb-4165-bed0-d68d1858dd21" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockchain/.gitignore" afterPath="$PROJECT_DIR$/blockchain/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockchain/README.md" afterPath="$PROJECT_DIR$/blockchain/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockchain/package.json" afterPath="$PROJECT_DIR$/blockchain/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockchain/rollup.config.js" afterPath="$PROJECT_DIR$/blockchain/rollup.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockchain/src/blockchain.ts" afterPath="$PROJECT_DIR$/blockchain/src/blockchain.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockchain/test/blockchain.test.ts" afterPath="$PROJECT_DIR$/blockchain/test/blockchain.test.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockchain/tools/gh-pages-publish.ts" afterPath="$PROJECT_DIR$/blockchain/tools/gh-pages-publish.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockchain/tsconfig.json" afterPath="$PROJECT_DIR$/blockchain/tsconfig.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blockchain/tslint.json" afterPath="$PROJECT_DIR$/blockchain/tslint.json" />
-    </list>
+    <list default="true" id="f098c946-52bb-4165-bed0-d68d1858dd21" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,15 +16,15 @@
     <favorites_list name="media-modules" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.49605057">
+    <splitter split-orientation="horizontal" split-proportion="0.54103965">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="FIRST">
-                  <first_editor relative-caret-position="330">
-                    <caret line="22" column="118" lean-forward="false" selection-start-line="22" selection-start-column="118" selection-end-line="22" selection-end-column="118" />
+                  <first_editor relative-caret-position="390">
+                    <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
                     <folding />
                   </first_editor>
                   <second_editor />
@@ -46,42 +36,15 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="ddppq.ts" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddppq.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ddpms.ts" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddpms.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="313">
-                  <caret line="146" column="8" lean-forward="false" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ddpid.ts" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddpid.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="330">
-                  <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="ddp.ts" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddp.ts">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="45">
-                  <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-                  <folding />
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.md">
+              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="360">
+                    <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                    <folding />
+                  </first_editor>
+                  <second_editor />
                 </state>
               </provider>
             </entry>
@@ -156,18 +119,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/analysis/audio/ddp/node_modules" />
-    <handled-path value="$PROJECT_DIR$/file-handling/file-handler-browser/node_modules" />
-    <handled-path value="$PROJECT_DIR$/file-handling/file-handler-chooser/node_modules" />
-    <handled-path value="$PROJECT_DIR$/file-handling/file-handler-local/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-    <handled-path value="$PROJECT_DIR$/vcs/node_modules" />
-  </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1916" />
-    <option name="height" value="1177" />
+    <option name="width" value="1676" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -195,35 +150,6 @@
             <path>
               <item name="media-modules" type="b2602c69:ProjectViewProjectNode" />
               <item name="media-modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="media-modules" type="b2602c69:ProjectViewProjectNode" />
-              <item name="media-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="media-modules" type="b2602c69:ProjectViewProjectNode" />
-              <item name="media-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="audio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="media-modules" type="b2602c69:ProjectViewProjectNode" />
-              <item name="media-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="analysis" type="462c0819:PsiDirectoryNode" />
-              <item name="audio" type="462c0819:PsiDirectoryNode" />
-              <item name="ddp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="media-modules" type="b2602c69:ProjectViewProjectNode" />
-              <item name="media-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="file-handling" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="media-modules" type="b2602c69:ProjectViewProjectNode" />
-              <item name="media-modules" type="462c0819:PsiDirectoryNode" />
-              <item name="file-handling" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -309,17 +235,16 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1916" height="1177" extended-state="6" />
+    <frame x="0" y="23" width="1676" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293247" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15567282" sideWeight="0.4811083" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.116616316" sideWeight="0.4811083" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32902032" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40888068" sideWeight="0.5082932" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3827957" sideWeight="0.49125978" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47741935" sideWeight="0.4448463" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19590114" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38191882" sideWeight="0.5087402" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35331905" sideWeight="0.61148036" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1563981" sideWeight="0.5188917" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -330,9 +255,10 @@
       <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914045" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Quokka" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293247" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39537036" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3537037" sideWeight="0.39020538" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35331905" sideWeight="0.38851964" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -349,133 +275,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/blockchain/tools/gh-pages-publish.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/tslint.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/rollup.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/rollup.config.js" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/.eslintrc" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/coverage/clover.xml" />
-    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/yarn.lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/yarn.lock" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/dist/fileHandlerLocal.js" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/es/index.js" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/example/script.js" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/src/index.js" />
-    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="0" lean-forward="true" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/package.json" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-hanlder-local/src/library.ts" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-hanlder-local/test/library.test.ts" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-hanlder-local/tsconfig.json" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-hanlder-local/tslint.json" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-hanlder-local/package.json" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/test/library.test.ts" />
-    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-browser/src/file-handler-browser.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/src/file-handler-local.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="63" lean-forward="false" selection-start-line="10" selection-start-column="63" selection-end-line="10" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/file-handling/file-handling-util.ts" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-handler-chooser/test/file-handler-chooser.ts" />
-    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-chooser/src/file-handler-chooser.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-chooser/test/file-handler-chooser.test.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="36" lean-forward="false" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/test/ddpid.test.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/test/ddpms.test.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/test/ddp.test.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/tslint.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/test/file-handler-local.test.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-chooser/test/file-handler-chooser.test.ts" />
+    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/test/ddpid.test.ts" />
+    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/test/ddpms.test.ts" />
+    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/test/ddp.test.ts" />
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/tslint.json" />
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/test/file-handler-local.test.ts" />
     <entry file="file://$PROJECT_DIR$/file-handling/file-handler-browser/test/file-handler-browser.test.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -483,154 +306,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/test/ddppq.test.ts">
+    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/test/ddppq.test.ts" />
+    <entry file="file://$PROJECT_DIR$/blockchain/node_modules/web3/index.js" />
+    <entry file="file://$PROJECT_DIR$/blockchain/tools/semantic-release-prepare.ts" />
+    <entry file="file://$PROJECT_DIR$/blockchain/contracts/MediaLedger.sol" />
+    <entry file="file://$PROJECT_DIR$/blockchain/src/blockchain.ts" />
+    <entry file="file://$PROJECT_DIR$/blockchain/README.md" />
+    <entry file="file://$PROJECT_DIR$/blockchain/build/contracts/ConvertLib.json" />
+    <entry file="file://$PROJECT_DIR$/blockchain/test/blockchain.test.ts" />
+    <entry file="file://$PROJECT_DIR$/blockchain/package.json" />
+    <entry file="file://$PROJECT_DIR$/blockchain/build/contracts/Migrations.json" />
+    <entry file="file://$PROJECT_DIR$/blockchain/contracts/Migrations.sol" />
+    <entry file="file://$PROJECT_DIR$/blockchain/tsconfig.json" />
+    <entry file="file://$PROJECT_DIR$/blockchain/rollup.config.js" />
+    <entry file="file://$PROJECT_DIR$/analysis/audio/wav/src/wav.ts" />
+    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddppq.ts" />
+    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddpms.ts" />
+    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddpid.ts" />
+    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddp.ts" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/vcs/src/vcs.ts" />
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-chooser/src/file-handler-chooser.ts" />
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-browser/src/file-handler-browser.ts" />
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-local/src/file-handler-local.ts" />
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-browser/rollup.config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/node_modules/web3/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/tools/semantic-release-prepare.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/contracts/MediaLedger.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+        <state relative-caret-position="345">
+          <caret line="23" column="14" lean-forward="false" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/src/blockchain.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="3" lean-forward="false" selection-start-line="62" selection-start-column="3" selection-end-line="62" selection-end-column="3" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/README.md">
+    <entry file="file://$PROJECT_DIR$/file-handling/file-handler-browser/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="45">
-            <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/build/contracts/ConvertLib.json" />
-    <entry file="file://$PROJECT_DIR$/blockchain/test/blockchain.test.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" column="8" lean-forward="false" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/build/contracts/Migrations.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/contracts/Migrations.sol">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/tsconfig.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blockchain/rollup.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/audio/wav/src/wav.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddppq.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="48" lean-forward="false" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddpms.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="146" column="8" lean-forward="false" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddpid.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/analysis/audio/ddp/src/ddp.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="330">
-            <caret line="22" column="118" lean-forward="false" selection-start-line="22" selection-start-column="118" selection-end-line="22" selection-end-column="118" />
+          <first_editor relative-caret-position="390">
+            <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
